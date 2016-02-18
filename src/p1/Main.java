@@ -1,5 +1,12 @@
 package p1;
 
+/*
+ * Program by Eric Mailman
+ * to show String and Character methods
+ * CIS 150
+ * 18Feb16
+ */
+
 import java.util.Scanner;
 
 public class Main {
